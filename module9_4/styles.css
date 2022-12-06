@@ -1,0 +1,7 @@
+.result {
+   display: flex;
+   flex-wrap: wrap;
+}
+.card-image {
+  display: block;
+}

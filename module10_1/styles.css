@@ -1,0 +1,7 @@
+.btn {
+  width: 140px;
+  display: flex;
+  Justify-content:space-between;
+  padding-top: 2px;
+}
+
